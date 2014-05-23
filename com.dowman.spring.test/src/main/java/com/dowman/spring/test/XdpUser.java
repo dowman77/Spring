@@ -2,7 +2,6 @@ package com.dowman.spring.test;
 
 
 public class XdpUser {
-
 	private String user_id         ;
 	private String user_pw         ;
 	private String user_nm         ;

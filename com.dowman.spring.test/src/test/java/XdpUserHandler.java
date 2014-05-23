@@ -15,7 +15,6 @@ public class XdpUserHandler {
 
 	@Test
 	public void testXdpUserCRUD() throws SQLException, ClassNotFoundException{
-		
 		@SuppressWarnings("resource")
 		ApplicationContext context = new ClassPathXmlApplicationContext("/com/dowman/spring/test/bean.xml");
 		
